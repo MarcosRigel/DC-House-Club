@@ -36,6 +36,8 @@ header .logo {
 
 .postImage {
     height: 50px;
+    margin: auto;
+    display: block;
 }
 
 header nav a {
